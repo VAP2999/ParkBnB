@@ -4,7 +4,8 @@ Parkbnb is a comprehensive parking management system designed to simplify parkin
 
 # Video Link
 
-https://northeastern-my.sharepoint.com/:v:/r/personal/patel_vanshi_northeastern_edu/Documents/OOD_FINAL_PROJECT_GROUP2.MOV?csf=1&web=1&e=durQvo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+You can view the final project video [here](https://northeastern-my.sharepoint.com/:v:/r/personal/patel_vanshi_northeastern_edu/Documents/OOD_FINAL_PROJECT_GROUP2.MOV?csf=1&web=1&e=durQvo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
+
 
 ## Contributors 👩🏻‍💻
 - Keya Goswami    `Project Manager`
